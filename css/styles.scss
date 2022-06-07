@@ -35,7 +35,7 @@ img {
 }
 
 .container{
-	background-color: bisque;
+	background-color: cornsilk;
 	display: flex;
 	justify-content: space-evenly;
 	max-width: none;
@@ -51,6 +51,23 @@ img {
 	border-radius: 25px;
 }
 
+
+.card1 {
+	background-color: #F8E8CC !important;
+	margin: 6rem;
+	padding: 2rem;
+	align-content: center;
+	text-align: left;
+	border-radius: 25px;
+}
+
+#link{
+	text-decoration: none;
+	color: white;
+	background-color: #764b36;
+	padding: 0.5rem;
+	text-align: right;
+}
 
 
 
