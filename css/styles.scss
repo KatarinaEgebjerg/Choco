@@ -34,7 +34,23 @@ img {
 	height: auto;
 }
 
+.container{
+	background-color: bisque;
+	display: flex;
+	justify-content: space-evenly;
+	max-width: none;
+}
 
+.card {
+	background-color: #86604E;
+	color: black;
+	margin: 6rem;
+	padding: 2rem;
+	display: flex;
+	align-content: center;
+	text-align: center;
+	border-radius: 25px;
+}
 
 
 
