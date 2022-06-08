@@ -66,25 +66,28 @@ img {
 	background-color: #764b36;
 	padding: 0.5rem;
 	border-radius: 20px;
+	text-align: right;
+	margin-left: 2rem ;
 }
 
 #link1{
 	text-decoration: none;
 	color: black;
 	background-color: white;
-	padding: 0.5rem;
+	padding-top: 0.5rem;
 	border-radius: 20px;
+	width: 5rem;
+	padding: 0.5rem;
+	margin-left: 2rem;
 }
 
-.card-title{
+.card-title1{
 	text-align: center;
 }
 
 .card-title{
 	font-family: "Vladimir Script";
 }
-
-
 
 .heading{
 	position: absolute;
@@ -93,12 +96,6 @@ img {
 	font-size: 700%;
 	color: black;
 	font-family: "Vladimir Script";
-}
-
-.heading2{
-	position: absolute;
-	font-size: 45px;
-	margin: 40%;
 }
 
 
