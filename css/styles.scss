@@ -74,7 +74,12 @@ img {
 	text-align: right;
 	margin-left: 2rem ;
 }
-
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
 #link1{
 	text-decoration: none;
 	color: black;
